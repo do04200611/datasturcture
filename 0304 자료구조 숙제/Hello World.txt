@@ -1,0 +1,11 @@
+public class BasicList {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+     int BasicList[][] = new int[5][5];
+    
+     
+    
+	}
+
+}
