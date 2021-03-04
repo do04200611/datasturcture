@@ -1,0 +1,11 @@
+
+public class FactResurce {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int f = new int();
+		int n = 5;
+		System.out.println(n + "! = " + f.factorial(n));
+	}
+
+}
